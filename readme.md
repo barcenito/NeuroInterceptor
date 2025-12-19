@@ -26,7 +26,7 @@ Desarrollar un agente autónomo capaz de interceptar objetivos aéreos maniobrab
 ### Stack Tecnológico
 *   **Simulación & Entrenamiento:** Python + JAX (Aceleración GPU/TPU).
 *   **Gestión de Datos:** Numpy (Generación de datasets offline).
-*   **Visualización:** Matplotlib (Validación y Renderizado).
+*   **Visualización:** Pygame (Validación y Renderizado).
 
 ### Módulos
 1.  **`trajectory_generator.py`:** Script offline que genera miles de rutas de vuelo válidas y las exporta a `.npy`.
